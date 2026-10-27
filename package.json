@@ -1,0 +1,24 @@
+{
+  "name": "orbit-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4173",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173"
+  },
+  "dependencies": {
+    "three": "^0.186.1",
+    "postprocessing": "^6.39.5",
+    "n8ao": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizi-learn/orbit-diorama-portal.git"
+  }
+}
